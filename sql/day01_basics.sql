@@ -68,7 +68,7 @@ WHERE age >= 25
 ORDER BY age DESC;
 
 
-------Exercise-----
+--------------------------------Exercise------------------------
 --return only : frist_name , last_name
 
 SELECT first_name, last_name
