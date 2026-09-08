@@ -92,3 +92,58 @@ SELECT first_name, age
 FROM customers 
 ORDER BY age DESC 
 LIMIT 3; -- returns 3 oldest customers
+
+
+----Exercise Day 2------------------------------
+
+-- 1. Show all customers who are not from Dalls
+SELECT *
+FROM customers
+WHERE city <> 'Dallas';
+
+--2. Show customers from Dallas or Houston
+SELECT *
+FROM customers 
+WHERE city = 'Dallas' OR city = 'Houston';
+
+--3. Show customers whose age is between 25 and 32
+SELECT *
+FROM customers
+WHERE age BETWEEN 25 AND 32;
+
+--4. show customers from Dallas, austin, chicago
+SELECT *
+FROM customers 
+WHERE city IN ('Dallas','Austin','Chicago');
+
+--5. Show customers whose first name starts with S
+SELECT *
+FROM customers 
+WHERE first_name LIKE 'S%';
+
+--6. Show all unique cities
+SELECT DISTINCT city 
+FROM customers;
+
+--7. Show the 3 oldest customers
+SELECT *
+FROM customers
+ORDER BY age DESC
+LIMIT 3;
+
+--8. Show customers who are from Dalls or Austin and are older thean 30.
+SELECT *
+FROM customers 
+WHERE (city = 'Dallas' OR city = 'Austin')
+AND age > 30;
+
+--9. Show customers whose last name contains: son
+SELECT *
+FROM customers 
+WHERE last_name ILIKE '%son%';
+
+--10. show 5 youngest customers
+SELECT *
+FROM customers 
+ORDER BY age 
+LIMIT 5;
