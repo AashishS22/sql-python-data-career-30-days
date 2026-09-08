@@ -68,38 +68,39 @@ WHERE age >= 25
 ORDER BY age DESC;
 
 
---------------------------------Exercise------------------------
---return only : frist_name , last_name
+--------------------------------Exercise Day 1 ----------------------------------------
+
+--1. return only : frist_name , last_name
 
 SELECT first_name, last_name
 FROM customers;
 
 
---show every customers who lives in houston
+--2. show every customers who lives in houston
 SELECT *
 FROM customers
 WHERE city = 'Houston';
 
 
--- show first_name, age for customers younger than 30
+--3. show first_name, age for customers younger than 30
 
 SELECT first_name,age 
 FROM customers
 WHERE age < 30;
 
--- show all customers sorted from youngest to oldest
+--4. show all customers sorted from youngest to oldest
 SELECT *
 FROM customers
 ORDER BY age;
 
--- show firstname, city , age for customers aged 30 or older, sorted oldest first
+--5. show firstname, city , age for customers aged 30 or older, sorted oldest first
 SELECT first_name, city,age 
 FROM customers
 WHERE age >= 30
 ORDER BY age DESC;
 
 
--- find customers who live in Dallas and are older than 25
+--6 find customers who live in Dallas and are older than 25
 SELECT *
 FROM customers
 WHERE city = 'Dallas' AND age > 25;
