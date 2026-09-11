@@ -1,5 +1,5 @@
 
--- Day 2 : PostgreSQL Fundamentals
+-- Day 2 : Filtering and Sorting
 -- Sep 8, 2026
 
 

@@ -1,3 +1,5 @@
+--Day 3 : NULL and Aliases
+
 --NULL---
 -- Null means a value is missing/unknown/not abailable
 -- Add some null data 
