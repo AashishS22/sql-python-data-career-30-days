@@ -1,5 +1,5 @@
 --Day 3 : NULL and Aliases
-
+-- Sep 9, 2026
 --NULL---
 -- Null means a value is missing/unknown/not abailable
 -- Add some null data 

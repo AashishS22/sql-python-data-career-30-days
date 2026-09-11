@@ -10,7 +10,7 @@ CREATE TABLE customers(
 	first_name VARCHAR(50),
 	last_name VARCHAR(50),
 	email VARCHAR(100),
-	city VARCHAR(50),
+	city VARCHAR(50),ahea
 	age INTEGER
 	);
 --
