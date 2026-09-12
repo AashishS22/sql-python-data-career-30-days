@@ -18,3 +18,5 @@ My 30-day learning journey focused on:
 - Day 3: NULL handling, COALESCE, aliases, calculated columns, DISTINCT, and Multiple column sorting.
 
 - Day 4: SQL aggregate functions : COUNT, SUM, MIN, MAX, AVG, COUNT DISTINCT and introduction to GROUP BY.
+
+- Day 5: GROUP BY, HAVING, WHERE vs HAVING, aggregates filtering, Gouped business summaries.
