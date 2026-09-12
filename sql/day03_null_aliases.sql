@@ -4,13 +4,8 @@
 -- Null means a value is missing/unknown/not abailable
 -- Add some null data 
 
-INSERT INTO customers 
-	(customer_id, first_name, last_name, email, city, age)
-VALUES 
-	( 11, 'Mia','Clark',NULL, 'Dallas', 26),
-	(12, 'James', 'Lewis', 'james@gmail.com',NULL, 30),
-	(13, 'Charlottee', 'Walker', NULL, 'Austin', NULL);
-	
+
+
 
 SELECT *
 FROM customers
