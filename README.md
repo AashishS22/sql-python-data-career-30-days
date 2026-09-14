@@ -22,3 +22,5 @@ My 30-day learning journey focused on:
 - Day 5: GROUP BY, HAVING, WHERE vs HAVING, aggregates filtering, Gouped business summaries.
 
 - Day 6: INNER JOIN, LEFT JOIN, one-to-many relationships, unmatched rows, grouped joins.
+
+- Day 7: Week 1 SQL review — filtering, NULL handling, aggregates, GROUP BY/HAVING, INNER JOIN, LEFT JOIN
