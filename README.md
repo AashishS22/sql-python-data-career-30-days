@@ -24,3 +24,15 @@ My 30-day learning journey focused on:
 - Day 6: INNER JOIN, LEFT JOIN, one-to-many relationships, unmatched rows, grouped joins.
 
 - Day 7: Week 1 SQL review — filtering, NULL handling, aggregates, GROUP BY/HAVING, INNER JOIN, LEFT JOIN
+
+- Day 8: 
+        3-table joins
+        CROSS JOIN
+        LEFT JOIN with zero-count cases
+        COUNT vs SUM
+        multi-column join conditions
+        GROUP BY + HAVING
+        self-join refresher
+    LeetCode: 
+            Students and Examinations
+            Managers with at least 5 Direct Reports   
