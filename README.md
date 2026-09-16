@@ -33,6 +33,24 @@ My 30-day learning journey focused on:
         multi-column join conditions
         GROUP BY + HAVING
         self-join refresher
-    LeetCode: 
-            Students and Examinations
-            Managers with at least 5 Direct Reports   
+        LeetCode: 
+                Students and Examinations
+                Managers with at least 5 Direct Reports   
+
+
+- Day 9: 
+        UNION     → stack results + remove duplicate rows
+        UNION ALL → stack results + keep duplicate rows
+
+        Requirements:
+        - same number of columns
+        - compatible corresponding data types
+
+        JOIN  → horizontal combination
+        UNION → vertical combination
+
+        ORDER BY for full UNION result → at the very end
+
+        PostgreSQL casting:
+        CAST(value AS text)
+        value::text
