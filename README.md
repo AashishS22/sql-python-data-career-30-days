@@ -54,3 +54,20 @@ My 30-day learning journey focused on:
         PostgreSQL casting:
         CAST(value AS text)
         value::text
+
+- Day 10: 
+        basic CTE syntax
+        CTE + filtering
+        CTE + aggregation
+        CTE + LEFT JOIN
+        CTE + 3-table JOIN
+        multiple CTEs
+        joining CTEs together
+        using a CTE like a normal table
+        top-N / highest-spender pattern
+
+
+        Mental Concept: 
+                build a result
+                - give it a name
+                - use it like temporary table
