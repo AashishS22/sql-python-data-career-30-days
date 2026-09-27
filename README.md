@@ -71,3 +71,6 @@ My 30-day learning journey focused on:
                 build a result
                 - give it a name
                 - use it like temporary table
+ 
+        
+- Day 11: Subqueries — scalar subqueries, `IN` / `NOT IN`, nested subqueries, derived tables, and         aggregate comparisons
