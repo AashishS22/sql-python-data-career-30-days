@@ -73,4 +73,8 @@ My 30-day learning journey focused on:
                 - use it like temporary table
  
         
-- Day 11: Subqueries — scalar subqueries, `IN` / `NOT IN`, nested subqueries, derived tables, and         aggregate comparisons
+- Day 11: Subqueries
+        - scalar subqueries, `IN` / `NOT IN`, nested subqueries, derived tables, and         aggregate comparisons
+
+- Day 12: CASE WHEN:
+        - conditional logic, categorization, conditional aggregation, grouped metrics, and CASE-based LeetCode practice
