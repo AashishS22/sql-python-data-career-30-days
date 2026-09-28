@@ -78,3 +78,7 @@ My 30-day learning journey focused on:
 
 - Day 12: CASE WHEN:
         - conditional logic, categorization, conditional aggregation, grouped metrics, and CASE-based LeetCode practice
+
+- Day 13: Date functions
+         — extracting date parts, ranges, intervals, date arithmetic, recent activity filtering, daily/monthly aggregation, and MySQL DATE_FORMAT
+         
