@@ -81,4 +81,7 @@ My 30-day learning journey focused on:
 
 - Day 13: Date functions
          — extracting date parts, ranges, intervals, date arithmetic, recent activity filtering, daily/monthly aggregation, and MySQL DATE_FORMAT
-         
+        
+- Day 14: String functions and data cleaning
+        — CONCAT, UPPER, LOWER, TRIM, LENGTH, SUBSTR, SPLIT_PART, LIKE patterns, capitalization cleaning,  and string aggregation.
+        -  Completed LeetCode 1667, 1527, and 1484.
