@@ -84,4 +84,8 @@ My 30-day learning journey focused on:
         
 - Day 14: String functions and data cleaning
         — CONCAT, UPPER, LOWER, TRIM, LENGTH, SUBSTR, SPLIT_PART, LIKE patterns, capitalization cleaning,  and string aggregation.
-        -  Completed LeetCode 1667, 1527, and 1484.
+        - Completed LeetCode 1667, 1527, and 1484.
+
+ - Day 15: Window functions 
+        — OVER, PARTITION BY, ROW_NUMBER, RANK, DENSE_RANK, running totals, LAG, LEAD, ranking with CTEs, and top-N-per-group patterns. 
+        - Completed LeetCode 176 and 185.
