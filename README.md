@@ -94,3 +94,6 @@ My 30-day learning journey focused on:
 - Day 16: EXISTS, NOT EXISTS, and correlated subqueries 
         — existence checks, anti-joins with NOT EXISTS, correlated aggregates, scalar subqueries in SELECT, comparing rows to group averages/max values, and aggregate subqueries in HAVING. 
         - Completed LeetCode 1978 and 1045.
+
+- Day 17: Self-joins and hierarchical relationships 
+        — employee/manager roles, employees earning more than managers, managers with multiple direct reports, employees sharing the same manager, multi-level manager hierarchies, and duplicate-safe employee pairing. Completed LeetCode 1731 and 570.
