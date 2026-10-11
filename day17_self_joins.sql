@@ -124,19 +124,3 @@ HAVING count(e.employee_id) >= 3;
 
  
   
- 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
