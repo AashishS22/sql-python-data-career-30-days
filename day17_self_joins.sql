@@ -121,6 +121,3 @@ HAVING count(e.employee_id) >= 3;
  ON e.manager_id = m.manager_id
  AND e.employee_id < m.employee_id;
  	
-
- 
-  

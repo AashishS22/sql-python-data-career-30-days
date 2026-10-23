@@ -97,3 +97,19 @@ My 30-day learning journey focused on:
 
 - Day 17: Self-joins and hierarchical relationships 
         — employee/manager roles, employees earning more than managers, managers with multiple direct reports, employees sharing the same manager, multi-level manager hierarchies, and duplicate-safe employee pairing. Completed LeetCode 1731 and 570.
+
+- Day 18 : ### Day 18 — Views & Temporary Tables
+        **Topics Covered**
+        - `CREATE VIEW`
+        - `CREATE OR REPLACE VIEW`
+        - `DROP VIEW`
+        - Temporary tables with `CREATE TEMP TABLE`
+        - Difference between CTEs, Views, and Temp Tables
+        - Aggregations using views
+        - Reusing saved query logic for analysis
+
+        **Key Concepts**
+        - **CTE:** Exists only within a single query.
+        - **View:** Stores a reusable SQL query and reflects current underlying data.
+        - **Temp Table:** Stores temporary rows for the current database session.
+        - Views can simplify complex analytical queries and make reusable datasets easier to work with.
