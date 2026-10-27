@@ -113,3 +113,81 @@ My 30-day learning journey focused on:
         - **View:** Stores a reusable SQL query and reflects current underlying data.
         - **Temp Table:** Stores temporary rows for the current database session.
         - Views can simplify complex analytical queries and make reusable datasets easier to work with.
+
+
+## SQL Phase — Completed ✅
+
+Completed a structured SQL learning track focused on data analytics, data engineering, and interview-style problem solving.
+
+### Topics Covered
+
+- `SELECT`, `WHERE`, `ORDER BY`, `LIMIT`
+- `IN`, `BETWEEN`, `LIKE`, `NULL`, `COALESCE`
+- Aggregate functions: `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`
+- `GROUP BY` and `HAVING`
+- `INNER JOIN`, `LEFT JOIN`, `CROSS JOIN`
+- Self-joins and hierarchical relationships
+- `UNION` and `UNION ALL`
+- Subqueries and correlated subqueries
+- `EXISTS` and `NOT EXISTS`
+- Common Table Expressions (CTEs)
+- `CASE WHEN` and conditional aggregation
+- Date and time operations
+- String functions and data cleaning
+- Window functions:
+  - `ROW_NUMBER()`
+  - `RANK()`
+  - `DENSE_RANK()`
+  - `LAG()`
+  - `LEAD()`
+  - Running totals
+  - Rolling windows
+- First/latest-row analysis
+- Views and temporary tables
+- Duplicate detection and removal
+- Regular expressions
+- Analytical SQL problem-solving
+
+### LeetCode SQL 50
+
+✅ Completed all **50/50 LeetCode SQL 50 problems**
+
+Practice included:
+
+- Aggregations
+- Multi-table joins
+- Ranking problems
+- Conditional aggregation
+- First/latest record problems
+- Running totals and moving averages
+- Correlated subqueries
+- Self-joins
+- `EXISTS` / `NOT EXISTS`
+- `UNION ALL`
+- Date filtering
+- Regex
+- Data modification with `DELETE`
+
+### Final SQL Assessment
+
+**Score: 9.4 / 10**
+
+The final assessment covered:
+
+- Joins and aggregation
+- Window functions
+- `EXISTS` / `NOT EXISTS`
+- Conditional aggregation
+- Correlated subqueries
+- Self-joins
+- `UNION ALL`
+- First-row logic
+- `LAG()` and previous-row comparisons
+
+### Current Status
+
+**SQL learning phase completed.**
+
+SQL will remain part of regular practice while the roadmap continues into:
+
+**Python → Pandas → Data Analysis → Power BI → Data Engineering**
