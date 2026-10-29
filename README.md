@@ -191,3 +191,35 @@ The final assessment covered:
 SQL will remain part of regular practice while the roadmap continues into:
 
 **Python → Pandas → Data Analysis → Power BI → Data Engineering**
+
+
+### Python Day 1 — Fundamentals ✅
+
+**Topics Covered**
+- Variables
+- Strings, integers, floats, and booleans
+- `print()` and f-strings
+- Arithmetic operators
+- Comparison operators
+- `if / elif / else`
+- Lists
+- `.append()` and `len()`
+- `for` loops
+- Functions and `return`
+- Dictionaries
+- `while` loops
+- `input()`
+- Type conversion
+- Basic `try / except` error handling
+
+**Practice Completed**
+- Created and printed variables
+- Built conditional logic with score ranges
+- Created and looped through lists
+- Built a salary calculation function
+- Created and updated dictionaries
+- Used dictionary `.items()`
+- Built a `while` loop
+- Handled invalid numeric input with `try / except`
+
+**Status:** ✅ Completed
