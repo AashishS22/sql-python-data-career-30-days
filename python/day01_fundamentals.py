@@ -8,6 +8,7 @@ Day 1 : Python Basics
     - comparison operators
     - if / elif / else
 """
+"""
 
 # 1. Vartiables + types
 
@@ -201,3 +202,5 @@ try:
     print(num**2)
 except ValueError:
     print("Please enter a valid number")
+
+    """
