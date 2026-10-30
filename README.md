@@ -223,3 +223,28 @@ SQL will remain part of regular practice while the roadmap continues into:
 - Handled invalid numeric input with `try / except`
 
 **Status:** ✅ Completed
+
+### Python Day 2 — Data Structures & Functions ✅
+
+**Topics Covered**
+- List indexing and slicing
+- List methods
+- Tuples
+- Sets
+- Functions with multiple return values
+- Tuple unpacking
+- Lists of dictionaries
+- Generator expressions
+- List comprehensions
+- Basic filtering and aggregation
+
+**Practice Completed**
+- Analyzed score lists
+- Worked with tuples and sets
+- Built a score analysis function
+- Processed employee salary data
+- Calculated total and average values
+- Filtered sales data
+- Created filtered lists using list comprehensions
+
+**Status:** ✅ Completed
