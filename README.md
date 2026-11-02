@@ -248,3 +248,30 @@ SQL will remain part of regular practice while the roadmap continues into:
 - Created filtered lists using list comprehensions
 
 **Status:** ✅ Completed
+
+### Python Day 3 — Files & CSV ✅
+
+**Topics Covered**
+- Reading and writing text files
+- `open()` with `r`, `w`, and `a`
+- `csv.writer()`
+- `csv.reader()`
+- `csv.DictReader()`
+- `csv.DictWriter()`
+- Writing headers and rows
+- Appending CSV data
+- Converting CSV strings to integers
+- Filtering CSV records
+- Calculating totals, averages, counts, and maximum values
+
+**Practice Completed**
+- Created and read text files
+- Created employee CSV data
+- Read CSV rows using dictionaries
+- Filtered employees by department
+- Calculated total salary
+- Calculated average salary
+- Found the highest salary
+- Filtered employees earning at least $80,000
+
+**Status:** ✅ Completed
