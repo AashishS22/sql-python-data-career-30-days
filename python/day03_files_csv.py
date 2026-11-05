@@ -4,6 +4,7 @@ Day 3 — Files, CSV, and Real Data
     - (read.write.append.real_work usage)
 
 """
+
 with open("python/skills.txt", "w") as file:
     file.write("hello from python")
 

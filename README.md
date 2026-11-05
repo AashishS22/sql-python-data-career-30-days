@@ -275,3 +275,24 @@ SQL will remain part of regular practice while the roadmap continues into:
 - Filtered employees earning at least $80,000
 
 **Status:** ✅ Completed
+
+### Python Day 4 — NumPy Basics ✅
+
+**Topics Covered**
+- Creating NumPy arrays
+- `dtype`, `shape`, and `size`
+- Vectorized arithmetic
+- `sum()`, `mean()`, `min()`, and `max()`
+- Boolean filtering
+- 2D arrays
+- Row and column indexing
+- Aggregations using `axis=0` and `axis=1`
+
+**Practice Completed**
+- Analyzed sales data using NumPy
+- Increased array values using vectorized operations
+- Filtered values based on conditions
+- Worked with 2D sales data
+- Calculated row-wise and column-wise totals, averages, and maximums
+
+**Status:** ✅ Completed
