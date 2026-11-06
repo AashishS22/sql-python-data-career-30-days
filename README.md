@@ -296,3 +296,36 @@ SQL will remain part of regular practice while the roadmap continues into:
 - Calculated row-wise and column-wise totals, averages, and maximums
 
 **Status:** ✅ Completed
+
+### Python Day 5 — Pandas Basics ✅
+
+**Topics Covered**
+- Creating DataFrames
+- Reading CSV files with `pd.read_csv()`
+- Inspecting data with `.head()`, `.shape`, `.columns`, `.dtypes`, and `.info()`
+- Selecting single and multiple columns
+- Filtering rows with conditions
+- Using `.loc` and `.iloc`
+- Creating calculated columns
+- Sorting with `.sort_values()`
+- Counting categories with `.value_counts()`
+- Grouping data with `.groupby()`
+- Aggregating with `.agg()`
+- Checking missing values with `.isna().sum()`
+- Filling missing values with `.fillna()`
+- Basic data cleaning
+- Calculating summary statistics
+- Finding highest-value records
+
+**Practice Completed**
+- Built employee DataFrames
+- Filtered employees by salary and department
+- Created bonus and total-pay columns
+- Calculated departmental salary statistics
+- Sorted salary data
+- Cleaned missing salary and department values
+- Read employee CSV data with Pandas
+- Found average salary by department
+- Identified the highest-paid employee
+
+**Status:** ✅ Completed
