@@ -329,3 +329,33 @@ SQL will remain part of regular practice while the roadmap continues into:
 - Identified the highest-paid employee
 
 **Status:** ✅ Completed
+
+### Python Day 6 — Pandas Data Cleaning ✅
+
+**Topics Covered**
+- Renaming columns with `.rename()`
+- Cleaning text with `.str.strip()`
+- Standardizing capitalization with `.str.title()`
+- Cleaning numeric strings with `.str.replace()`
+- Converting data types with `.astype()`
+- Using `pd.to_numeric(..., errors="coerce")`
+- Handling invalid values and `NaN`
+- Filling missing values with `.fillna()`
+- Detecting duplicates with `.duplicated()`
+- Removing duplicates with `.drop_duplicates()`
+- Converting date columns with `pd.to_datetime()`
+- Extracting year and month from dates
+- Building an end-to-end data-cleaning pipeline
+
+**Practice Completed**
+- Cleaned messy employee names and departments
+- Converted salary strings such as `$70,000` into numeric values
+- Converted invalid age values into missing values
+- Filled missing ages using the average
+- Converted hire dates to datetime format
+- Extracted hire year information
+- Identified and removed duplicate rows
+- Filtered cleaned employee data by salary
+- Calculated salary summary statistics
+
+**Status:** ✅ Completed

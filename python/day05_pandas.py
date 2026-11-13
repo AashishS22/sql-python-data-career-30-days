@@ -182,7 +182,7 @@ print(
     df.groupby("department")["salary"].mean().sort_values(ascending=False)
 )
 
-OR 
+# OR 
 average_sal = df.groupby("department")["salary"].mean()
 average_sal = average_sal.sort_values(ascending=False)
 print(average_sal)
