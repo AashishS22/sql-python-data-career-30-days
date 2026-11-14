@@ -359,3 +359,31 @@ SQL will remain part of regular practice while the roadmap continues into:
 - Calculated salary summary statistics
 
 **Status:** ✅ Completed
+
+### Python Day 7 — Pandas Merges, Joins & Concatenation ✅
+
+**Topics Covered**
+- Combining DataFrames with `pd.merge()`
+- Inner joins
+- Left joins
+- Outer joins
+- Joining on differently named columns with `left_on` and `right_on`
+- Combining datasets vertically with `pd.concat()`
+- Using `ignore_index=True`
+- Grouping merged data
+- Filtering merged results
+- Sorting combined datasets
+- Finding highest group averages with `.idxmax()` and `.max()`
+
+**Practice Completed**
+- Joined employee and department datasets
+- Compared inner, left, and outer joins
+- Handled unmatched rows
+- Merged DataFrames with different join-key names
+- Combined multiple employee datasets with `concat`
+- Calculated average and total salary by department
+- Identified the department with the highest average salary
+- Filtered high-salary employees
+- Sorted final merged datasets by salary
+
+**Status:** ✅ Completed
