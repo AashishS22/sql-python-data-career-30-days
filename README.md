@@ -387,3 +387,30 @@ SQL will remain part of regular practice while the roadmap continues into:
 - Sorted final merged datasets by salary
 
 **Status:** ✅ Completed
+
+### Python Day 8 — Deeper Pandas Analysis ✅
+
+**Topics Covered**
+- Creating pivot tables with `pivot_table()`
+- Multi-level pivot tables
+- Using `.map()` for value mapping
+- Using `.apply()` with custom functions
+- Creating categorical salary bands
+- Using `.value_counts()`
+- Calculating grouped averages
+- Finding the highest group average with `.idxmax()` and `.max()`
+- Filtering rows based on overall statistics
+- Sorting analytical results
+
+**Practice Completed**
+- Built department salary pivot tables
+- Compared mean, minimum, and maximum salaries
+- Created department and location codes
+- Created custom salary categories
+- Counted employees by salary band
+- Calculated average salary by department
+- Identified the department with the highest average salary
+- Filtered above-average employees
+- Sorted filtered employees by salary
+
+**Status:** ✅ Completed
