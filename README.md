@@ -414,3 +414,31 @@ SQL will remain part of regular practice while the roadmap continues into:
 - Sorted filtered employees by salary
 
 **Status:** ✅ Completed
+
+### Python Day 9 — Exploratory Data Analysis (EDA) ✅
+
+**Topics Covered**
+- Inspecting datasets with `.shape`, `.columns`, `.dtypes`, and `.describe()`
+- Checking missing values
+- Category frequency analysis with `.value_counts()`
+- Salary summary statistics
+- Using `.idxmax()` and `.idxmin()` to find records
+- Quartiles and IQR
+- Detecting outliers using IQR boundaries
+- Correlation analysis with `.corr()`
+- Interpreting correlation strength and direction
+- Grouped EDA with `.groupby()` and `.agg()`
+- Finding departments with highest average metrics
+- Handling ties in grouped analysis
+- Writing business findings from data
+
+**Practice Completed**
+- Identified highest- and lowest-paid employees
+- Detected salary outliers using the IQR method
+- Analyzed salary vs. experience correlation
+- Compared salary statistics across departments
+- Calculated average experience by department
+- Identified departments with highest average salary and experience
+- Produced business-style findings from EDA results
+
+**Status:** ✅ Completed
