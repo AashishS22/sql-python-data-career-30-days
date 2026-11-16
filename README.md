@@ -442,3 +442,33 @@ SQL will remain part of regular practice while the roadmap continues into:
 - Produced business-style findings from EDA results
 
 **Status:** ✅ Completed
+
+### Python Day 10 — Data Visualization with Pandas & Matplotlib ✅
+
+**Topics Covered**
+- Creating bar charts for category comparisons
+- Creating histograms for numeric distributions
+- Creating scatter plots for relationships between variables
+- Creating box plots for spread and outlier detection
+- Creating line charts for trends over time
+- Sorting grouped results before visualization
+- Adding chart titles and axis labels
+- Using `plt.tight_layout()` for cleaner chart layouts
+- Choosing the appropriate chart for the analytical question
+
+**Practice Completed**
+- Visualized average salary by department
+- Visualized salary distribution
+- Examined the relationship between experience and salary
+- Identified salary outliers visually with a box plot
+- Created a monthly revenue trend line chart
+- Wrote short business observations from visual results
+
+**Chart Selection**
+- Bar chart → compare categories
+- Histogram → distribution
+- Scatter plot → relationship
+- Box plot → spread and outliers
+- Line chart → trend over time
+
+**Status:** ✅ Completed

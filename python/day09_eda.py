@@ -148,7 +148,7 @@ print("Department with highest average experience is:", avg_exp.idxmax(),avg_exp
 
 # Final EDA Challenge
 
-# Part A - Basic EDA
+# PART A - Basic EDA
 print(df.shape)
 print(df.columns)
 print(df.dtypes)
@@ -156,7 +156,7 @@ print(df.describe())
 print("Missing Value counts:\n",df.isna().sum())
 print("No of employees in each department:\n",df["department"].value_counts())
 
-# Part B - Salary Analysis
+# PART B - Salary Analysis
 print("Salary Summary:\n",df["salary"].agg(
     ["mean","median","std","min","max"]
 ))
@@ -165,7 +165,7 @@ print("Highest-paid employee:\n",df.loc[highest_idx, ["name", "salary"]])
 lowest_idx= df["salary"].idxmin()
 print("Lowest-paid employee:\n",df.loc[lowest_idx,["name", "salary"]])
 
-# Part c - Outlier Detection
+# PART c - Outlier Detection
 q1 = df["salary"].quantile(0.25)
 q3 = df["salary"].quantile(0.75)
 iqr = q3-q1
@@ -177,13 +177,13 @@ outliers = df[
 ]
 print(outliers[["name", "salary"]])
 
-# Part D - Correlation
+# PART D - Correlation
 print(df[["age", "salary", "experience"]].corr())
 print(df[["salary", "experience"]].corr())
 
 # In this dataset,  salary and experience has very strong correlation, meaning employee with more experience tends to have more salary.
 
-# part E - Department Analysis
+## PART E - Department Analysis
 print(
     df.groupby("department")["salary"].agg(
         ["count", "mean", "median", "min", "max"]
@@ -198,10 +198,11 @@ max_exp = dep_avg_exp.max()
 print(max_exp)
 print("department with highest average experience:\n", dep_avg_exp[dep_avg_exp == max_exp])
 
-# Part F - Business Findings
+# PART F - Business Findings
 
     # 1. IT has the highest average salary.
 
     # 2. Salary and experience have a very strong positive correlation, meaning employees with more experience tend to earn higher salaries in this dataset.
 
     # 3. Ethan's $120,000 salary is identified as an outlier using the IQR method.
+
